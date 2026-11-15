@@ -1,6 +1,27 @@
 # Enfuce AML Sanctions Screener
 
-A sanctions-screening system built for the **Dash × Enfuce hackathon**. Given a customer (name, date of birth, country), it decides whether that person could be on a sanctions list, and explains why.
+![Python](https://img.shields.io/badge/Python-FastAPI-009688?logo=fastapi&logoColor=white)
+![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS%20HNSW-0467DF?logo=meta&logoColor=white)
+![Transformers](https://img.shields.io/badge/Embeddings-Sentence--Transformers-FFD21E?logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM-Grok%20(xAI)-000000)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js%2016-000000?logo=nextdotjs&logoColor=white)
+
+An **AI-powered entity-resolution engine** for anti-money-laundering (AML) sanctions screening, built for the **Dash × Enfuce hackathon**. Given a customer (name, date of birth, country), it decides whether that person could be on a sanctions list, and explains why.
+
+It combines **hybrid retrieval** (FAISS vector search + phonetic + lexical blocking), **multilingual transformer embeddings**, an **explainable rule-based decision engine** and **LLM reasoning with structured outputs**, served as a real-time streaming API with a dashboard on top.
+
+## Highlights
+
+- **Semantic vector search at scale:** dense 384-dim multilingual sentence embeddings indexed in **FAISS**. It uses exact inner-product search for small lists and **HNSW approximate nearest neighbour (ANN)** search once a list passes 10K entries, with **GPU-accelerated FAISS** on the RunPod deployment.
+- **Hybrid retrieval / candidate generation:** semantic (embedding), phonetic (Double Metaphone) and DOB inverted indexes are combined to keep recall high while cutting a **1M-entry** sanctions list down to a handful of candidates per customer.
+- **Cross-lingual, cross-script name matching:** a multilingual transformer (`paraphrase-multilingual-MiniLM-L12-v2`) plus transliteration matches Cyrillic, Arabic and Latin spellings of the same person.
+- **Multi-signal fuzzy matching:** Jaro-Winkler, phonetic, embedding cosine similarity, DOB and nationality are scored as five independent signals.
+- **Explainable AI (XAI):** every decision has a per-signal breakdown and a human-readable rationale, shown in the UI's XAI detail panel. That kind of auditability matters in regulated compliance work.
+- **LLM-in-the-loop reasoning:** only ambiguous cases are sent to an LLM (xAI Grok), prompted as a compliance officer and constrained to **structured JSON output** (decision, confidence, evidence). This is a retrieve-then-reason design that keeps LLM cost and latency low.
+- **Cost-sensitive ML evaluation:** benchmarked on **216K labelled pairs** with confusion matrices. An experimental decision-tree classifier tuned for **F-β (β = 10)** to favour recall reached **F1 0.976** on a 43K holdout.
+- **Real-time streaming inference:** single and batch screening streamed to the frontend over **Server-Sent Events**, with async concurrent LLM calls and cached embeddings and indexes for fast cold starts.
+
+---
 
 The hard part of sanctions screening isn't exact matches. It's names that are *nearly* the same: transliterations (`Aleksandr` / `Alexander` / `Александр`), reordered tokens, missing middle names, typos, and partial or missing birth dates. It also has to stay fast against a list of a million entries without flooding compliance teams with false positives.
 
