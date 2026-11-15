@@ -23,6 +23,8 @@ It combines **hybrid retrieval** (FAISS vector search + phonetic + lexical block
 
 ---
 
+## The problem
+
 The hard part of sanctions screening isn't exact matches. It's names that are *nearly* the same: transliterations (`Aleksandr` / `Alexander` / `Александр`), reordered tokens, missing middle names, typos, and partial or missing birth dates. It also has to stay fast against a list of a million entries without flooding compliance teams with false positives.
 
 Every customer gets one of three outcomes:
