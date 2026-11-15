@@ -8,6 +8,8 @@
 
 An **AI-powered entity-resolution engine** for anti-money-laundering (AML) sanctions screening, built for the **Dash × Enfuce hackathon**. Given a customer (name, date of birth, country), it decides whether that person could be on a sanctions list, and explains why.
 
+> **Note:** This was built by a **team of 4** during the hackathon. The original repository is private, so this is a public replica of the project for portfolio purposes. It contains the same code and data, but not the original commit history.
+
 It combines **hybrid retrieval** (FAISS vector search + phonetic + lexical blocking), **multilingual transformer embeddings**, an **explainable rule-based decision engine** and **LLM reasoning with structured outputs**, served as a real-time streaming API with a dashboard on top.
 
 ## Highlights
@@ -200,4 +202,4 @@ cd backend && pytest
 
 ---
 
-*Built in a team at the Dash × Enfuce hackathon. This is a public copy of the original private repository.*
+*Built by a team of 4 at the Dash × Enfuce hackathon. The original repository is private; this is a public replica.*
