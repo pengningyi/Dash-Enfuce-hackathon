@@ -1,0 +1,31 @@
+Sanction_ID,Full_Name,Alias_1,Alias_2,Date_of_Birth,Nationality,Passport_Number,Sanctions_Program,Reason_for_Listing
+EU-0001,Aleksandr Viktorovich Bortnikov,A. Bortnikov,Bortnikow Aleksandr,1951-11-15,Russia,RU7234581,EU Council Decision 2014/145/CFSP,"Director of FSB, involved in actions undermining Ukraine's territorial integrity"
+EU-0002,Ramzan Akhmatovich Kadyrov,R. Kadyrov,Kadyrow Ramsan,1976-10-05,Russia,RU8891245,EU Council Decision 2014/145/CFSP,"Head of Chechen Republic, support of military operations"
+EU-0003,Yevgeny Viktorovich Prigozhin,E. Prigozhin,Jewgeni Prigoschin,1961-06-01,Russia,RU5567823,EU Council Decision 2020/651,Involvement in destabilizing activities in Libya and Syria
+EU-0004,Hassan Nasrallah,H. Nasrallah,Hasan Nasrollah,1960-08-31,Lebanon,LB1029384,EU Council Decision 2013/255/CFSP,"Secretary-General of Hezbollah, designated entity"
+EU-0005,Dmitry Anatolyevich Medvedev,D. Medvedev,Medwedew Dmitri,1965-09-14,Russia,RU3345671,EU Council Decision 2022/329,"Deputy Chairman of Security Council, supporting military aggression"
+EU-0006,Sergei Borisovich Ivanov,S. Ivanov,Iwanow Sergej,1953-01-31,Russia,RU4456782,EU Council Decision 2014/145/CFSP,"Special Representative of the President, involvement in policy decisions"
+EU-0007,Mohammad Javad Zarif,M.J. Zarif,Zarif Mohammad,1960-01-08,Iran,IR9988776,EU Council Decision 2012/635/CFSP,"Former Foreign Minister, involvement in nuclear proliferation support"
+EU-0008,Nikolai Platonovich Patrushev,N. Patrushev,Patruschew Nikolai,1951-07-11,Russia,RU2233445,EU Council Decision 2014/145/CFSP,"Secretary of Security Council, key role in Ukraine-related decisions"
+EU-0009,Ghasem Soleimani,Q. Soleimani,Qasem Sulejmani,1957-03-11,Iran,IR5566778,EU Council Decision 2011/235/CFSP,"Commander of Quds Force, support of armed groups"
+EU-0010,Valentina Ivanovna Matviyenko,V. Matviyenko,Matwijenko Walentina,1949-04-07,Russia,RU6677889,EU Council Decision 2014/145/CFSP,"Chairwoman of Federation Council, support of annexation"
+EU-0011,Viktor Fedorovich Yanukovych,V. Yanukovych,Janukowytsch Wiktor,1950-07-09,Ukraine,UA1122334,EU Council Decision 2014/119/CFSP,"Former President, misappropriation of state funds"
+EU-0012,Arkady Romanovich Rotenberg,A. Rotenberg,Rotenberg Arkadij,1951-12-15,Russia,RU9900112,EU Council Decision 2014/145/CFSP,"Benefiting from ties to decision-makers, Kerch bridge construction"
+EU-0013,Alisher Burkhanovich Usmanov,A. Usmanov,Usmanow Alischer,1953-09-09,Uzbekistan,UZ7788990,EU Council Decision 2022/329,"Pro-Kremlin oligarch, close ties to Russian leadership"
+EU-0014,Mikhail Vladimirovich Mishustin,M. Mishustin,Mischustin Michail,1966-03-03,Russia,RU5544332,EU Council Decision 2022/329,Prime Minister of the Russian Federation
+EU-0015,Sergei Kuzhugetovich Shoigu,S. Shoigu,Schoigu Sergei,1955-05-21,Russia,RU3322110,EU Council Decision 2014/145/CFSP,"Former Minister of Defence, directing military operations"
+EU-0016,Ahmad Wahidi,A. Vahidi,Ahmed Wahidi,1958-08-24,Iran,IR4455667,EU Council Decision 2011/235/CFSP,"Former Minister of Defence, involvement in AMIA bombing"
+EU-0017,Elvira Sakhipzadovna Nabiullina,E. Nabiullina,Nabiullina Elwira,1963-10-29,Russia,RU8877665,EU Council Decision 2022/329,"Governor of Central Bank, facilitating financial stability for military funding"
+EU-0018,Igor Ivanovich Sechin,I. Sechin,Setschin Igor,1960-09-07,Russia,RU1100998,EU Council Decision 2014/145/CFSP,"CEO of Rosneft, close associate of the President"
+EU-0019,Petr Pavlovich Kolbin,P. Kolbin,Kolbin Pjotr,1963-06-20,Russia,RU2211003,EU Council Decision 2014/145/CFSP,"Associate of the President, benefiting from state contracts"
+EU-0020,Leonid Eduardovich Slutsky,L. Slutsky,Sluzki Leonid,1968-01-04,Russia,RU7766554,EU Council Decision 2022/329,"Chairman of LDPR, propaganda activities justifying military aggression"
+EU-0021,Abdolnaser Hemmati,A. Hemmati,Hemati Abdolnaser,1957-01-01,Iran,IR3344556,EU Council Decision 2012/635/CFSP,"Former Governor of Central Bank, circumvention of financial sanctions"
+EU-0022,Vyacheslav Viktorovich Volodin,V. Volodin,Wolodin Wjatscheslaw,1964-02-04,Russia,RU9988770,EU Council Decision 2014/145/CFSP,"Speaker of State Duma, facilitating legislation supporting military actions"
+EU-0023,Andrei Remiovich Belousov,A. Belousov,Belousow Andrei,1959-03-17,Russia,RU6655443,EU Council Decision 2022/329,"First Deputy Prime Minister, economic policy supporting military operations"
+EU-0024,Nikolay Tokarev,N. Tokarev,Tokarew Nikolaj,1950-12-20,Russia,RU1234567,EU Council Decision 2022/329,"President of Transneft, energy sector ties to the state"
+EU-0025,Hossein Salami,H. Salami,Salami Hüseyin,1960-09-22,Iran,IR7788001,EU Council Decision 2011/235/CFSP,Commander-in-Chief of IRGC
+EU-0026,Alexei Alexandrovich Navalny,A. Navalny,,1976-06-04,Russia,RU0000000,N/A - Reference Only,Included for testing - NOT a sanctioned individual
+EU-0027,Oleg Vladimirovich Deripaska,O. Deripaska,Deripaska Oleg,1968-01-02,Russia,RU4433221,EU Council Decision 2022/329,Leading businessperson operating in sectors providing revenue to the government
+EU-0028,Gennady Nikolayevich Timchenko,G. Timchenko,Timtschenko Gennadi,1952-11-09,Russia,RU5566001,EU Council Decision 2014/145/CFSP,"Close associate and personal friend of the President, benefiting from state contracts"
+EU-0029,Ismail Haniyeh,I. Haniyeh,Haniye Ismail,1963-01-29,Palestine,PS1122003,EU Council Decision 2001/931/CFSP,"Senior leader of Hamas, designated terrorist organization"
+EU-0030,Margarita Simonovna Simonyan,M. Simonyan,Simonjan Margarita,1980-04-06,Russia,RU8899001,EU Council Decision 2022/329,"Editor-in-Chief of RT, leading propaganda outlet"

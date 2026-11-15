@@ -1,0 +1,11 @@
+#,Original_Sanction_ID,Original_Full_Name,Obfuscated_Name_in_Customer_List,Obfuscation_Method,Customer_Row_Number,Date_of_Birth,Country_in_Customer_List,Expected_Similarity_Score
+1,EU-0001,Aleksandr Viktorovich Bortnikov,A. Bortnikow,Initial + German transliteration,3279,1951-11-15,Germany,83%
+2,EU-0002,Ramzan Akhmatovich Kadyrov,Kadyrow Ramsan,Reversed order + German spelling,13435,1976-10-05,Austria,96%
+3,EU-0004,Hassan Nasrallah,Hasan Nasrollah,Phonetic transliteration variant,14593,1960-08-31,Belgium,93%
+4,EU-0007,Mohammad Javad Zarif,M. Javad Zarief,Initial + spelling variant (ie/i),18290,1960-01-08,Netherlands,84%
+5,EU-0009,Ghasem Soleimani,Kasim Suleymani,Turkish phonetic spelling,29257,1957-03-11,Turkey,84%
+6,EU-0015,Sergei Kuzhugetovich Shoigu,S.K. Shoigu,Double initial abbreviation,32099,1955-05-21,Finland,83%
+7,EU-0025,Hossein Salami,Hussein Selami,Arabic/Turkish phonetic variant,36049,1960-09-22,Sweden,86%
+8,EU-0027,Oleg Vladimirovich Deripaska,Olek Deripaska,Name typo (g→k) + dropped patronymic,83811,1968-01-02,Switzerland,94%
+9,EU-0029,Ismail Haniyeh,Ismael Haniye,French spelling variant,96531,1963-01-29,France,83%
+10,EU-0030,Margarita Simonovna Simonyan,Margarita Simonjan,Dropped patronymic + phonetic (yan→jan),97197,1980-04-06,Denmark,85%

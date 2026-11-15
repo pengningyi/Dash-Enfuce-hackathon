@@ -1,0 +1,51 @@
+customer_index,customer_name,customer_dob,customer_country,expected_sanction_id,original_sanction_name,original_sanction_dob
+186485,Seishū Mrkino,1945-05-04,JP,Q11570598,Seishū Makino,1945-05-04
+332464,DARIUSZ NAJDAŁA,1959-06-02,PL,pl-wanted-aa0c05811342c67059950b93b94ffcb37dc13ab9,NAJDAŁA DARIUSZ,1959-11-16
+160809,Tayfun Tok,1986-04-18,DE,Q106229294,Tayfun Tok,1986-05-16
+478747,Regina Durrer-knobel,1971-09-05,CH,Q123154718,Regina Durrer-Knobel,1971-08-17
+173687,Christelle Cahard,1973-01-06,FR,Q65570903,Christelle Cahard,1973-05-09
+169629,Garcia Martha,1961-06-06,US,us-fed-excl-martha-garcia-44109-cleveland,Martha Garcia,1961-10-15
+213746,A. Valle,1973-02-20,BR,Q28145542,Alexandre Valle,1973-04-07
+273091,Hallgeir Aarbakk,1981-11-27,NO,no-nbim-e4ce87bc6a92977afc54aedf887805e007a49b9b,Hallgeir Aarbakk,1981-10-17
+4582,J. Jae-ho,1965-09-07,KR,Q19941078,Jung Jae-ho,1965-10-22
+114643,K. Kirkpatrick,1954-03-21,US,Q29973502,Kay Kirkpatrick,1954-09-13
+183705,CYNTHIA MENCHACA,1962-04-19,US,us-fed-excl-cynthia-anne-menchaca-78414-corpus-christi,CYNTHIA ANNE MENCHACA,1962-04-19
+130721,Packianathan Emmanuel,1946-10-14,US,NK-MuZycaLcqBrG3YWAXzeUBW,Emmanuel Packianathan,1946-04-22
+186059,E. Johnson,1953-01-21,US,us-fed-excl-earnestine-johnson-39654-monticello,Earnestine Johnson,1953-01-21
+86349,Will Campos,1974-01-23,US,Q25686502,Will Campos,1974-10-07
+228071,E. Salmovitz,1948-03-14,IL,Q2778132,Esther Salmovitz,1948-04-08
+217971,Tomas H. Anderson Jr.,1946-03-17,US,Q7790259,Thomas H. Anderson Jr.,1946-03-17
+197870,Yusop Yusophin binti,1987-05-13,MY,mymoha-person-kdn-i-16-2021,Yusophin binti Yusop,1987-09-10
+406015,Bertratd Detaille,1978-05-27,FR,Q98236879,Bertrand Detaille,1978-03-02
+255858,KAREN L Smit,1964-04-02,US,us-fed-excl-karen-l-smith-33147-miami,KAREN L SMITH,1964-05-12
+257673,AMY LABBE,1973-07-14,US,us-fed-excl-amy-elizabeth-labbe-04236-greene,AMY ELIZABETH LABBE,1973-07-14
+405973,Roger Klein,1950-01-07,LU,Q20559280,Roger Klein,1950-01-07
+102647,Vesna Samardžić,1979-10-24,ME,me-gov-424ac4a6c308e728ee99180dda3d3bf9592e384a,Vesna Samardžić,1979-10-05
+279717,Padmarajan C. V.,1931-07-22,IN,Q5006911,C. V. Padmarajan,1931-07-22
+352770,FENWICK ASHLEY MAE,1986-03-18,US,us-fed-excl-ashley-mae-fenwick-02746-new-bedford,ASHLEY MAE FENWICK,1986-06-21
+40243,Isaae Julies,1952-05-04,ZA,Q16744529,Isaac Julies,1952-03-12
+16065,Bordier Alain,1954-10-01,FR,Q65568462,Alain Bordier,1954-08-04
+61645,ŁUKASIK JACEK,1974-08-06,PL,pl-wanted-821a8f3d0312cf8cc1ea1d4e86aee6624f318b2b,ŁUKASIK JACEK,1974-04-19
+115791,Daryl Bartholomew,1969-12-14,US,us-fed-excl-daryl-bartholomew-80203-denver,Daryl Bartholomew,1969-12-14
+209037,Vadim Gustov,1948-02-15,RU,Q4152885,Vadim Gustov,1948-12-26
+128019,SIAMAK BAGHAn ARASSI,1963-05-10,US,NK-ctV54CC5cH52PXeVPeKdvk,SIAMAK BAGHAI ARASSI,1963-11-01
+141492,P. Hervé,1975-08-02,FR,Q98250077,Pascal Hervé,1975-08-29
+435057,N. FARASATPOUR,1972-01-11,US,us-fed-excl-negin-farasatpour-90025-los-angeles,NEGIN FARASATPOUR,1972-01-11
+33053,Kesang Yargkyi Takla,1944-02-27,CN-XZ,Q17350956,Kesang Yangkyi Takla,1944-09-15
+276084,James Alex Msekela,1959-03-04,TZ,Q5306810,James Alex Msekela,1959-09-03
+45535,D. L CHAMBERLAIN,1958-09-18,US,us-fed-excl-debra-l-chamberlain-97402-eugene,DEBRA L CHAMBERLAIN,1958-09-21
+425501,Mikhail Baryshnikov,1954-04-28,RU,Q4078874,Mikhail Baryshnikov,1954-04-28
+168022,VADYM KARPIUK,1985-05-25,UA,pl-wanted-4e02b338f9d8a22166e2e180d5ec37924cff15f4,KARPIUK VADYM,1985-01-20
+310994,D. Gail Baker Bird,1959-08-07,US,us-fed-excl-delores-gail-baker-bird-40769-williamsburg,Delores Gail Baker Bird,1959-10-01
+355998,Martin Pakula,1969-01-07,AU,Q11770700,Martin Pakula,1969-01-07
+498582,Céline Habrant,1983-10-23,FR,Q138760600,Céline Jeannine Habrant,1983-05-04
+203372,Gholamhossein Karbaschi,1954-07-01,IR,Q951081,Gholamhossein Karbaschi,1954-08-23
+39008,Allavena Jean-Charles,1960-02-08,MC,Q20630486,Jean-Charles Allavena,1960-10-18
+363003,Humberto DELGADO,1984-08-02,US,us-fed-excl-humberto-delgado-33135-miami,HUMBERTO DELGADO,1984-12-01
+339336,Françols Gautheron,1938-06-11,FR,Q65582910,François Gautheron,1938-09-09
+204075,Christophe Avena,1966-01-28,FR,Q63766651,Christophe Avena,1966-10-05
+397776,DUrZIŃSKI ARTUR,1978-01-05,PL,pl-wanted-9f7a8205acb69793b6cb730070b3cedc528c5612,DUDZIŃSKI ARTUR,1978-11-23
+361689,Mr Sergio David Ferrari,1968-01;1968-02-10,AR,NK-KKvZBWX8pP3fShueUTtGrS,Mr Sergio David Ferrari,1968-01;1968-02-10
+104485,Juan Hernández,1961-03-17,MX,Q18386039,Juan Manuel San Martín Hernández,1961-12-16
+136906,Jaanson Jüri,1965-10-14,EE,Q704436,Jüri Jaanson,1965-10-14
+103095,Alain Sévêque,1950-08-01,FR,Q65602380,Alain Sévêque,1950-10-27
